@@ -7,7 +7,7 @@ var buttonColours = [
     "yellow"
 ]
 
-// git test
+// git test 2
 
 function nextSequence() {
     var randomNumber = Math.floor(Math.random() * 4)
