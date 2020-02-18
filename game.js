@@ -12,7 +12,7 @@ var userClickPattern = []
 $(".btn").click(function() {
     var userChosenColour = $(this).attr("id");
     userClickPattern.push(userChosenColour)
-    // console.log(userClickPattern)
+    console.log(userClickPattern)
 })
 
 
